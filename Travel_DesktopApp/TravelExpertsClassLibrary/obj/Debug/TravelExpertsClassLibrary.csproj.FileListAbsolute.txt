@@ -1,0 +1,29 @@
+C:\Users\795934\Desktop\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\795934\Desktop\workshop4-5vs2\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.dll
+C:\Users\795934\Desktop\workshop4-5vs2\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.pdb
+C:\Users\795934\Desktop\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.dll
+C:\Users\795934\Desktop\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.pdb
+C:\Users\795934\Desktop\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July27\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.dll
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July27\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.pdb
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July27\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July27\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.dll
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July27\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.pdb
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July29\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.dll
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July29\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.pdb
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July29\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csprojAssemblyReference.cache
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July29\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July29\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.dll
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2-July29\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.pdb
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2July29vs2\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.dll
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2July29vs2\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.pdb
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2July29vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2July29vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.dll
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2July29vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.pdb
+C:\PROJ207 Phase 2\workshop4-5vs2\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.dll
+C:\PROJ207 Phase 2\workshop4-5vs2\TravelExpertsClassLibrary\bin\Debug\TravelExpertsClassLibrary.pdb
+C:\PROJ207 Phase 2\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csproj.CoreCompileInputs.cache
+C:\PROJ207 Phase 2\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.dll
+C:\PROJ207 Phase 2\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.pdb
+C:\PROJ207 Phase 2\workshop4-5vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\792122\Desktop\Git Repos\workshop4-5vs2July29vs2\TravelExpertsClassLibrary\obj\Debug\TravelExpertsClassLibrary.csprojAssemblyReference.cache

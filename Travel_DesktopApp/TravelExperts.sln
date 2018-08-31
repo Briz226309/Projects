@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExperts", "TravelExperts\TravelExperts.csproj", "{7C4332C4-21E3-475B-9B60-CF1C398FDFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExpertsClassLibrary", "TravelExpertsClassLibrary\TravelExpertsClassLibrary.csproj", "{FD848B1C-8527-42BC-B637-8FE3A3C785ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4332C4-21E3-475B-9B60-CF1C398FDFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4332C4-21E3-475B-9B60-CF1C398FDFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4332C4-21E3-475B-9B60-CF1C398FDFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4332C4-21E3-475B-9B60-CF1C398FDFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD848B1C-8527-42BC-B637-8FE3A3C785ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD848B1C-8527-42BC-B637-8FE3A3C785ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD848B1C-8527-42BC-B637-8FE3A3C785ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD848B1C-8527-42BC-B637-8FE3A3C785ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41285C1F-C462-4C1C-ADC0-00922945541A}
+	EndGlobalSection
+EndGlobal
